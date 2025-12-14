@@ -1,10 +1,3 @@
-/* class_2.c
-   Quizillionaire — full project
-   - Fixed player-name input bug (robust buffer clearing)
-   - Cross-platform colorful terminal UI (Windows / ANSI fallback)
-   - Mixed cross-platform sound effects (Option 3)
-   - Preserves original game logic and full question bank
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
